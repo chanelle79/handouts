@@ -7,3 +7,4 @@ file.symlink(
 
 # confirm that data is accessible
 file.exists('data/README.md')
+
